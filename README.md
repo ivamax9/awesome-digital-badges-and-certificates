@@ -34,6 +34,8 @@ A collection of awesome courses and certifications with digital badges and certi
   - [AWS Learning](#aws-learning)
     - [Storage Learning Plan - Object](https://explore.skillbuilder.aws/learn/public/learning_plan/view/51/storage-learning-plan-object-storage)
     - [Storage Learning Plan - Block](https://explore.skillbuilder.aws/learn/public/learning_plan/view/93/storage-learning-plan-block-storage)
+    - [Storage Learning Plan - File Storage](https://explore.skillbuilder.aws/learn/public/learning_plan/view/95/storage-learning-plan-file-storage)
+    - [Storage Learning Plan - Data Migration](https://explore.skillbuilder.aws/learn/public/learning_plan/view/94/storage-learning-plan-data-migration)
     - [Storage Learning Plan - Data Protection and Disaster Recovery](https://explore.skillbuilder.aws/learn/public/learning_plan/view/54/storage-learning-plan-data-protection-and-disaster-recovery)
   - [AWS Partners](#aws-partners)
     - [AWS Partner: Accreditation (Technical)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1096/aws-partner-accreditation-technical)
