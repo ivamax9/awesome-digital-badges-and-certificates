@@ -40,3 +40,17 @@ A collection of awesome courses and certifications with digital badges and certi
     - [AWS Partner: SAP on AWS (Business)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1374/aws-partner-sap-on-aws-business)
     - [AWS Partner: SAP on AWS (Technical)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1571/aws-partner-sap-on-aws-technical)
     - [AWS Partner Migration Ambassador 2022](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12350/migration-ambassador-foundations-business)
+  - [AWS Role](#aws-roles)
+    -  [AWS Role: Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) :dollar:
+    -  [AWS Role: Developer (Assosiate)](https://aws.amazon.com/certification/certified-developer-associate/) :dollar:
+    -  [AWS Role: SysOps Administrator (Assosiate)](https://aws.amazon.com/certification/certified-sysops-admin-associate/) :dollar:
+    -  [AWS Role: Cloud DevOps Engineer (Professional)](https://aws.amazon.com/certification/certified-devops-engineer-professional/) :dollar:
+    -  [AWS Role: Solutions Architect (Assosiate)](https://aws.amazon.com/certification/certified-solutions-architect-associate/) :dollar:
+    -  [AWS Role: Solutions Architect (Professional)](https://aws.amazon.com/certification/certified-solutions-architect-professional/) :dollar:
+  - [AWS Specialty](#aws-specialty)
+    -  [AWS Specialty: Advanced Networking](https://aws.amazon.com/certification/certified-advanced-networking-specialty/) :dollar:
+    -  [AWS Specialty: Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/) :dollar:
+    -  [AWS Specialty: Database](https://aws.amazon.com/certification/certified-database-specialty/) :dollar:
+    -  [AWS Specialty: Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/) :dollar:
+    -  [AWS Specialty: Security](https://aws.amazon.com/certification/certified-security-specialty/) :dollar:
+    -  [AWS Specialty: SAP on AWS](https://aws.amazon.com/certification/certified-sap-on-aws-specialty/) :dollar:
