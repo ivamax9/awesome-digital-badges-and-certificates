@@ -35,11 +35,11 @@ A collection of awesome courses and certifications with digital badges and certi
     - [Storage Learning Plan - Object](https://explore.skillbuilder.aws/learn/public/learning_plan/view/51/storage-learning-plan-object-storage)
     - [Storage Learning Plan - Block](https://explore.skillbuilder.aws/learn/public/learning_plan/view/93/storage-learning-plan-block-storage)
   - [AWS Partners](#aws-partners)
-    - [AWS Partner Accreditation (Technical)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1096/aws-partner-accreditation-technical)
+    - [AWS Partner: Accreditation (Technical)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1096/aws-partner-accreditation-technical)
     - [AWS Partner: Accreditation (Business)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1100/aws-partner-accreditation-business-digital)
     - [AWS Partner: SAP on AWS (Business)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1374/aws-partner-sap-on-aws-business)
     - [AWS Partner: SAP on AWS (Technical)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1571/aws-partner-sap-on-aws-technical)
-    - [AWS Partner Migration Ambassador 2022](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12350/migration-ambassador-foundations-business)
+    - [AWS Partner: Migration Ambassador 2022](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/12350/migration-ambassador-foundations-business)
   - [AWS Role](#aws-roles)
     -  [AWS Role: Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) :dollar:
     -  [AWS Role: Developer (Assosiate)](https://aws.amazon.com/certification/certified-developer-associate/) :dollar:
