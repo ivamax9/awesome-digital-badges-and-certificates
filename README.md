@@ -57,3 +57,11 @@ A collection of awesome courses and certifications with digital badges and certi
     -  [AWS Specialty: Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/) :dollar:
     -  [AWS Specialty: Security](https://aws.amazon.com/certification/certified-security-specialty/) :dollar:
     -  [AWS Specialty: SAP on AWS](https://aws.amazon.com/certification/certified-sap-on-aws-specialty/) :dollar:
+- [IBM](#ibm-general)
+  - [IBM Enterprise Design Thinking - Practitioner](https://www.ibm.com/design/thinking/page/badges/core-skills#Practitioner)
+  - [IBM Enterprise Design Thinking - Co-Creator](https://www.ibm.com/design/thinking/page/badges/core-skills#Co-Creator)
+  - [IBM Enterprise Design Thinking - Coach](https://www.ibm.com/design/thinking/page/badges/core-skills#Coach)
+  - [IBM Enterprise Design Thinking - Advocate](https://www.ibm.com/design/thinking/page/badges/core-skills#Advocate)
+  - [IBM Enterprise Design Thinking - Leader](https://www.ibm.com/design/thinking/page/badges/core-skills#Leader)
+  - [IBM Enterprise Design Thinking - Artificial Intelligence](https://www.ibm.com/design/thinking/page/badges/ai)
+  
