@@ -13,8 +13,11 @@ A collection of awesome courses and certifications with digital badges and certi
   - [Kafka Fundamentals](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) by [Confluent](https://www.confluent.io/)
 - [FinOps](#finops-general)
   - [FinOps Certified Practitioner](https://learn.finops.org/path/finops-certified-practitioner-self-paced) :dollar:
-- [Terraform](#terraform-general)
-  - [HashiCorp Certified: Terraform Associate (002)](https://www.hashicorp.com/certification/terraform-associate) :dollar:
+- [HashiCorp](#hashicorp-general)
+  - [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate) :dollar:
+  - [HashiCorp Certified: Vault Associate](https://www.hashicorp.com/certification/vault-associate) :dollar:
+  - [HashiCorp Certified: Vault Operations Professional](https://www.hashicorp.com/certification/vault-associate) :dollar:
+  - [HashiCorp Certified: Consul Associate](https://www.hashicorp.com/certification/consul-associate) :dollar:
 - [Kubernetes](#k8s-general)
   - [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) :dollar:
   - [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) :dollar:
