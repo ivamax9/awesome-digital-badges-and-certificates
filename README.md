@@ -18,6 +18,9 @@ A collection of awesome courses and certifications with digital badges and certi
   - [HashiCorp Certified: Vault Associate](https://www.hashicorp.com/certification/vault-associate) :dollar:
   - [HashiCorp Certified: Vault Operations Professional](https://www.hashicorp.com/certification/vault-associate) :dollar:
   - [HashiCorp Certified: Consul Associate](https://www.hashicorp.com/certification/consul-associate) :dollar:
+- [Docker](#docker-general)
+  - [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) by [Cognitive Class AI](https://cognitiveclass.ai)
+  - [Get started with Docker](https://www.credly.com/org/go-deploy-ltd/badge/get-started-with-docker) by [Go Deploy](https://lz.godeploy.com/en-us/landing-page) :dollar:
 - [Kubernetes](#k8s-general)
   - [Certified Kubernetes Administrator](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) :dollar:
   - [Certified Kubernetes Application Developer](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) :dollar:
