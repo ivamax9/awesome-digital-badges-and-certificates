@@ -11,6 +11,8 @@ A collection of awesome courses and certifications with digital badges and certi
   - [GitOps Fundamentals](https://codefresh.learnworlds.com/course/gitops-with-argo) by [Codefresh](https://codefresh.io/)
 - [Kafka](#kafka-general)
   - [Kafka Fundamentals](https://training.confluent.io/channeldetail/apache-kafka-fundamentals-and-accreditation) by [Confluent](https://www.confluent.io/)
+  - [Confluent Certified Developer for Apache Kafka](https://training.confluent.io/examdetail/confluent-dev) by [Confluent](https://www.confluent.io/) :dollar:
+  - [Confluent Certified Administrator for Apache Kafka](https://training.confluent.io/examdetail/confluent-admin-exam) by [Confluent](https://www.confluent.io/) :dollar:
 - [FinOps](#finops-general)
   - [FinOps Certified Practitioner](https://learn.finops.org/path/finops-certified-practitioner-self-paced) :dollar:
 - [HashiCorp](#hashicorp-general)
