@@ -65,6 +65,10 @@ A collection of awesome courses and certifications with digital badges and certi
     -  [AWS Specialty: Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/) :dollar:
     -  [AWS Specialty: Security](https://aws.amazon.com/certification/certified-security-specialty/) :dollar:
     -  [AWS Specialty: SAP on AWS](https://aws.amazon.com/certification/certified-sap-on-aws-specialty/) :dollar:
+  - [.NET on AWS](#aws-net)
+    -  [.NET Workloads on AWS Lambda](https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-lambda)
+    -  [.NET Workloads on AWS App Runner](https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-aws-app-runner)
+    -  [.NET Workloads on Amazon ECS on AWS Fargate](https://www.credly.com/org/dotnetonaws/badge/net-workloads-on-amazon-ecs-on-aws-fargate)
 - [IBM](#ibm-general)
   - [IBM Enterprise Design Thinking - Practitioner](https://www.ibm.com/design/thinking/page/badges/core-skills#Practitioner)
   - [IBM Enterprise Design Thinking - Co-Creator](https://www.ibm.com/design/thinking/page/badges/core-skills#Co-Creator)
